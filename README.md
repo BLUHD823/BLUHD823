@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alejo
-- Lain fan from Maradona and Messi's birthplace
+- Lain fan from Argentina
 - 🌱 I’m currently learning whatever comes
 - 📫 How to reach me alejodeje@gmail.com
 
