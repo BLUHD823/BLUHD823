@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BLUHD823
+- 👋 Hi, I’m Alejo
 - Lain fan from Maradona and Messi's birthplace
 - 🌱 I’m currently learning whatever comes
 - 📫 How to reach me alejodeje@gmail.com
