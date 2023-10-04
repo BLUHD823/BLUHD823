@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alejo
 - Lain fan from Argentina
-- 🌱 I’m currently learning whatever comes
+- 🌱 I’m currently learning something
 - 📫 How to reach me alejodeje@gmail.com
 
 <!---
