@@ -42,7 +42,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/BLUHD823/BLUHD823/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
