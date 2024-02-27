@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Alejo Nehuén Paiva a developer from Argentina.</p>
+<p align="left">My name is Alejo Nehuén Paiva and I'm a developer from Argentina.</p>
 
 ###
 
